@@ -1,4 +1,4 @@
-# Website PPribadi
+# Website Pribadi
 
 Website pribadi untuk menampilkan profil profesional, proyek-proyek AI/ML, pengembangan web, dan tulisan tentang berbagai topik termasuk sains, filsafat, AI, dan sastra.
 
